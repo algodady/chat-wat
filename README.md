@@ -28,8 +28,8 @@ Before starting, ensure you have the following installed:
 
 1. **Clone the repository** to your local machine:
     ```bash
-    git clone https://github.com/yourusername/real-time-chat-app.git
-    cd real-time-chat-app
+    git clone https://github.com/algodady/chat-wat.git
+    cd chat-wat
     ```
 
 2. **Install dependencies**:
